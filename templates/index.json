@@ -41,12 +41,6 @@
             "heading": "<p>Talk about your brand<\/p>",
             "heading_size": "hxl"
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.asdasdasdad<\/p>"
-          }
         }
       },
       "block_order": [
